@@ -4,15 +4,14 @@ This is a web portfolio developed with HTML, CSS, JavaScript, and PHP, using Boo
 
 ## Requirements
 - PHP 7.4 or higher
-- Web server (Apache recommended)
-- MySQL (if your project uses a database)
+- Web server (Apache)
 - Docker (optional, to run in a container)
 
 ## Manual Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USER/YOUR_REPO.git
-   cd YOUR_REPO
+   https://github.com/GabrielHuertasdl/Portfolio_gabriel.git
+   cd Portfolio_gabriel.git
    ```
 2. Move the files to your web server's directory.
 3. Make sure Apache and PHP are configured correctly.
